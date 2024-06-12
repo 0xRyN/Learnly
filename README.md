@@ -1,4 +1,4 @@
-# LearningApp - Android Application
+# Learnly - Android Jetpack Compose + Material3 Mobile App
 
 ## Project Overview
 
